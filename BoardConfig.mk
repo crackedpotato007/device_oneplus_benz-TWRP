@@ -27,7 +27,7 @@
 -include $(COMMON_PATH)/BoardConfigCommon.mk
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := ossi
+TARGET_OTA_ASSERT_DEVICE := benz
 
 # TWRP specific build flags
 TW_FRAMERATE := 120
