@@ -20,7 +20,7 @@
 COMMON_SOC := sm85xx
 
 # Define hardware platform
-PRODUCT_PLATFORM := kalama
+PRODUCT_PLATFORM := crow
 
 #
 #
